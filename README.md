@@ -1,6 +1,6 @@
 # Website Layout Professional
 
-Welcome to the "Website Layout Professional" project! This project focuses on creating a modern and professional website layout by incorporating various front-end technologies and techniques.
+Welcome to my "Website Layout Professional" project! My project focuses on creating a modern and professional website layout by incorporating various front-end technologies and techniques.
 
 ## Technologies and Techniques Used
 
